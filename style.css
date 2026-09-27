@@ -33,6 +33,11 @@ html, body {
   background-color: green;
 
 }
+#sendButton {
+  height: 40px;
+  width: 100px;
+  background-color: lightgreen;
+}
 .headingText {
   text-align: center;
   font-family: "Gecko", sans-serif;
