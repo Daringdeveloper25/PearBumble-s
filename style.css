@@ -26,6 +26,7 @@ html, body {
   height: 40px;
   width: 100px;
   background-color: lightgreen;
+  font-family: "Gecko", sans-serif;
 }
 .tab-button.active {
   height: 40px;
@@ -37,6 +38,7 @@ html, body {
   height: 40px;
   width: 100px;
   background-color: lightgreen;
+  font-family: "Gecko", sans-serif;
 }
 .headingText {
   text-align: center;
